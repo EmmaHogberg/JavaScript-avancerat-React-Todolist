@@ -47,7 +47,7 @@ class App extends React.Component {
     axios
       .post("https://jsonplaceholder.typicode.com/todos", {
         title,
-id: uuid(),
+        id: uuid(),
         completed: false,
       })
       .then((res) => this.setState({ todos: [...this.state.todos, res.data] }));
