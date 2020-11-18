@@ -1,0 +1,16 @@
+.container {
+  padding: 0 1 rem;
+}
+
+.button {
+  display: inline-block;
+  border: none;
+  background: #00838f;
+  color: #fff;
+  padding: 7px 20 px;
+  cursor: pointer;
+}
+
+.button:hover {
+  background: #0097a7;
+}
