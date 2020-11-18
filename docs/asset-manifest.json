@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/EmmaHogberg/JavaScript-avancerat-React-Todolist/settings/static/css/main.240070ed.chunk.css",
-    "main.js": "/EmmaHogberg/JavaScript-avancerat-React-Todolist/settings/static/js/main.03beee1b.chunk.js",
-    "main.js.map": "/EmmaHogberg/JavaScript-avancerat-React-Todolist/settings/static/js/main.03beee1b.chunk.js.map",
-    "runtime-main.js": "/EmmaHogberg/JavaScript-avancerat-React-Todolist/settings/static/js/runtime-main.5f0f6d90.js",
-    "runtime-main.js.map": "/EmmaHogberg/JavaScript-avancerat-React-Todolist/settings/static/js/runtime-main.5f0f6d90.js.map",
-    "static/js/2.c5b095bb.chunk.js": "/EmmaHogberg/JavaScript-avancerat-React-Todolist/settings/static/js/2.c5b095bb.chunk.js",
-    "static/js/2.c5b095bb.chunk.js.map": "/EmmaHogberg/JavaScript-avancerat-React-Todolist/settings/static/js/2.c5b095bb.chunk.js.map",
-    "index.html": "/EmmaHogberg/JavaScript-avancerat-React-Todolist/settings/index.html",
-    "static/css/main.240070ed.chunk.css.map": "/EmmaHogberg/JavaScript-avancerat-React-Todolist/settings/static/css/main.240070ed.chunk.css.map",
-    "static/js/2.c5b095bb.chunk.js.LICENSE.txt": "/EmmaHogberg/JavaScript-avancerat-React-Todolist/settings/static/js/2.c5b095bb.chunk.js.LICENSE.txt"
+    "main.css": "/JavaScript-avancerat-React-Todolist/static/css/main.240070ed.chunk.css",
+    "main.js": "/JavaScript-avancerat-React-Todolist/static/js/main.03beee1b.chunk.js",
+    "main.js.map": "/JavaScript-avancerat-React-Todolist/static/js/main.03beee1b.chunk.js.map",
+    "runtime-main.js": "/JavaScript-avancerat-React-Todolist/static/js/runtime-main.ababd982.js",
+    "runtime-main.js.map": "/JavaScript-avancerat-React-Todolist/static/js/runtime-main.ababd982.js.map",
+    "static/js/2.c5b095bb.chunk.js": "/JavaScript-avancerat-React-Todolist/static/js/2.c5b095bb.chunk.js",
+    "static/js/2.c5b095bb.chunk.js.map": "/JavaScript-avancerat-React-Todolist/static/js/2.c5b095bb.chunk.js.map",
+    "index.html": "/JavaScript-avancerat-React-Todolist/index.html",
+    "static/css/main.240070ed.chunk.css.map": "/JavaScript-avancerat-React-Todolist/static/css/main.240070ed.chunk.css.map",
+    "static/js/2.c5b095bb.chunk.js.LICENSE.txt": "/JavaScript-avancerat-React-Todolist/static/js/2.c5b095bb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5f0f6d90.js",
+    "static/js/runtime-main.ababd982.js",
     "static/js/2.c5b095bb.chunk.js",
     "static/css/main.240070ed.chunk.css",
     "static/js/main.03beee1b.chunk.js"
