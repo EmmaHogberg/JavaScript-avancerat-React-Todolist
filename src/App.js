@@ -42,7 +42,7 @@ class App extends React.Component {
       );
   };
 
-  // Addd Todo
+  // Add Todo
   addTodo = (title) => {
     axios
       .post("https://jsonplaceholder.typicode.com/todos", {
