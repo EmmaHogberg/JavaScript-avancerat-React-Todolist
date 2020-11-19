@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/JavaScript-avancerat-React-Todolist/static/css/main.240070ed.chunk.css",
-    "main.js": "/JavaScript-avancerat-React-Todolist/static/js/main.03beee1b.chunk.js",
-    "main.js.map": "/JavaScript-avancerat-React-Todolist/static/js/main.03beee1b.chunk.js.map",
+    "main.js": "/JavaScript-avancerat-React-Todolist/static/js/main.4e76890e.chunk.js",
+    "main.js.map": "/JavaScript-avancerat-React-Todolist/static/js/main.4e76890e.chunk.js.map",
     "runtime-main.js": "/JavaScript-avancerat-React-Todolist/static/js/runtime-main.ababd982.js",
     "runtime-main.js.map": "/JavaScript-avancerat-React-Todolist/static/js/runtime-main.ababd982.js.map",
-    "static/js/2.c5b095bb.chunk.js": "/JavaScript-avancerat-React-Todolist/static/js/2.c5b095bb.chunk.js",
-    "static/js/2.c5b095bb.chunk.js.map": "/JavaScript-avancerat-React-Todolist/static/js/2.c5b095bb.chunk.js.map",
+    "static/js/2.4ae987bf.chunk.js": "/JavaScript-avancerat-React-Todolist/static/js/2.4ae987bf.chunk.js",
+    "static/js/2.4ae987bf.chunk.js.map": "/JavaScript-avancerat-React-Todolist/static/js/2.4ae987bf.chunk.js.map",
     "index.html": "/JavaScript-avancerat-React-Todolist/index.html",
     "static/css/main.240070ed.chunk.css.map": "/JavaScript-avancerat-React-Todolist/static/css/main.240070ed.chunk.css.map",
-    "static/js/2.c5b095bb.chunk.js.LICENSE.txt": "/JavaScript-avancerat-React-Todolist/static/js/2.c5b095bb.chunk.js.LICENSE.txt"
+    "static/js/2.4ae987bf.chunk.js.LICENSE.txt": "/JavaScript-avancerat-React-Todolist/static/js/2.4ae987bf.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ababd982.js",
-    "static/js/2.c5b095bb.chunk.js",
+    "static/js/2.4ae987bf.chunk.js",
     "static/css/main.240070ed.chunk.css",
-    "static/js/main.03beee1b.chunk.js"
+    "static/js/main.4e76890e.chunk.js"
   ]
 }

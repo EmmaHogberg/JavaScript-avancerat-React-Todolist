@@ -3,7 +3,7 @@ import { BrowserRouter as Router, Route } from "react-router-dom";
 import Header from "./components/layout/Header";
 import Todos from "./components/Todos";
 import AddTodo from "./components/AddTodo";
-// import { v4 as uuid } from "uuid";
+import { v4 as uuid } from "uuid";
 import "./App.css";
 import About from "./components/pages/About";
 import axios from "axios";
@@ -46,10 +46,14 @@ class App extends React.Component {
   addTodo = (title) => {
     axios
       .post("https://jsonplaceholder.typicode.com/todos", {
-        title,
+        title: title,
         completed: false,
       })
-      .then((res) => this.setState({ todos: [...this.state.todos, res.data] }));
+
+      .then((res) => {
+        res.data.id = uuid();
+        this.setState({ todos: [...this.state.todos, res.data] });
+      });
   };
 
   render() {
